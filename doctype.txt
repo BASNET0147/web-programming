@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Education </title>
+	<body>
+	</body>
+</head>
+</html>	
+<table border="1" width="70%">
+				
+					<tr>
+						<td>
+							S.n
+						</td>
+						<td>
+							Qualification
+						</td>
+						<td>
+							School/collage
+						</td>
+						
+					</tr>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							S.L.C
+						</td>
+						<td>
+							Parijat English Boarding School
+						</td>
+						
+					</tr>
+					<tr>
+						<td>
+							2
+						</td>
+						<td>
+							H.S.E.B
+						</td>
+						<td>
+							Janata Higher Secondary Collage
+						</td>
+						
+					</tr>
+					<tr>
+						<td>
+							3
+						</td>
+						<td>
+							Bachelor
+						</td>
+						<td>
+							Pashupati Multiple Campus
+						</td>
+						
+					</tr>
+				</table>
